@@ -254,7 +254,7 @@ export default function Home() {
 
               <TabsContent value="home" className={`p-5 ${menuOpen ? 'mt-0' : ' mt-14'}`}>
                 <div >
-                  <AboutMeSection />     
+                  {/* <AboutMeSection />      */}
                 </div>
                 <div className="">
                   <WhatIDoSection />
