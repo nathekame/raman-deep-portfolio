@@ -81,7 +81,7 @@ export default function Home() {
                 <Card className="bg-secondary ml-5 max-w-full lg:p-3 ">
                 <div className="flex justify-center p-5">
               <Avatar className="h-40 w-40">
-                <AvatarImage src={'/img/'}  alt="photo" />
+                <AvatarImage src={'/img/passport_photo.jpeg'}  alt="photo" />
                 <AvatarFallback>RD</AvatarFallback>
               </Avatar>
 
