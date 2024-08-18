@@ -49,9 +49,9 @@ const WorkSection: React.FC = () => {
 
                       
 
-                    {/* <Link href={d.url} target="_blank" className="font-semibold text-sm mt-2 flex justify-end">
+                    <Link href={d.url} target="_blank" className="font-semibold text-sm mt-2 flex justify-end">
                           <Button className="pt-2">Visit</Button>
-                       </Link> */}
+                       </Link>
 
                     </div>
                      
