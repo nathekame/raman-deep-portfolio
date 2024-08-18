@@ -25,7 +25,11 @@ const WorkSection: React.FC = () => {
               <div className="flex gap-2 mb-5">
                   <h1 className="font-semibold text-2xl">My Projects </h1> <hr className="mt-3 border-2 w-10 border-primary"  />
 
+                  
+
                   </div>
+                  <p className='text-lg'>I’m a Machine Learning Engineer based in Ontario, Canada, with hands-on experience in applying machine learning and data science techniques to real-world challenges. My expertise includes predictive modeling, sentiment analysis, and fraud detection. I specialize in leveraging data-driven insights to drive business solutions and enhance operational efficiency.</p>
+                     <br /> <br />
           <div className="grid lg:grid-cols-2 gap-4 sm:grid-cols-1">
                 {Works.items.map(d => (
 
