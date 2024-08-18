@@ -67,7 +67,7 @@ const WorkSection: React.FC = () => {
 
 
               <div className="m-3">
-                <Link href="https://github.com/nathekame?tab=repositories" target="_blank" className="font-semibold text-base flex justify-end">
+                <Link href="https://github.com/kaushalrmn?tab=repositories" target="_blank" className="font-semibold text-base flex justify-end">
                    Click here to see more projects on my github repositories page
                 </Link>
               </div>

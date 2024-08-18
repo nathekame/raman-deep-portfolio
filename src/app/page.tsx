@@ -82,11 +82,11 @@ export default function Home() {
                 <div className="flex justify-center p-5">
               <Avatar className="h-40 w-40">
                 <AvatarImage src={'/img/passport_photo.jpeg'}  alt="photo" />
-                <AvatarFallback>RD</AvatarFallback>
+                <AvatarFallback>RK</AvatarFallback>
               </Avatar>
 
               </div>
-                  <CardTitle className="flex justify-center mb-2 text-center">Raman Deep</CardTitle>
+                  <CardTitle className="flex justify-center mb-2 text-center">Ramandeep Kaur</CardTitle>
                   <div className="flex justify-center text-lg font-medium">Machine Learning Engineer</div>
                   <CardHeader>
 
@@ -95,7 +95,7 @@ export default function Home() {
 
                    
                          {/* <!-- Github --> */}
-                         <Link href="https://github.com/nathekame">
+                         <Link href="https://github.com/kaushalrmn">
                             <svg
                               xmlns="http://www.w3.org/2000/svg"
                               className="h-7 w-7"
@@ -109,7 +109,7 @@ export default function Home() {
                           </Link>
 
                           {/* <!-- Linkedin --> */}
-                          <Link href="https://www.linkedin.com/in/norbert-athekame-7a55a63b">
+                          <Link href="https://www.linkedin.com/in/raman-kaushal-66784b152">
                             <svg
                             xmlns="http://www.w3.org/2000/svg"
                             className="h-7 w-7"
@@ -122,7 +122,7 @@ export default function Home() {
                           </Link>
 
                           {/* <!-- Twitter --> */}
-                          <Link href="https://x.com/nathekame?t=XQ5qXRWNtWBhW8W7XerTuA&s=09">
+                          {/* <Link href="https://x.com/nathekame?t=XQ5qXRWNtWBhW8W7XerTuA&s=09">
                             <svg
                             xmlns="http://www.w3.org/2000/svg"
                             className="h-7 w-7"
@@ -132,7 +132,7 @@ export default function Home() {
                             >
                               <path d="M24 4.557c-.883.392-1.832.656-2.828.775 1.017-.609 1.798-1.574 2.165-2.724-.951.564-2.005.974-3.127 1.195-.897-.957-2.178-1.555-3.594-1.555-3.179 0-5.515 2.966-4.797 6.045-4.091-.205-7.719-2.165-10.148-5.144-1.29 2.213-.669 5.108 1.523 6.574-.806-.026-1.566-.247-2.229-.616-.054 2.281 1.581 4.415 3.949 4.89-.693.188-1.452.232-2.224.084.626 1.956 2.444 3.379 4.6 3.419-2.07 1.623-4.678 2.348-7.29 2.04 2.179 1.397 4.768 2.212 7.548 2.212 9.142 0 14.307-7.721 13.995-14.646.962-.695 1.797-1.562 2.457-2.549z" />
                             </svg>
-                          </Link>
+                          </Link> */}
 
                      </div>
                   </CardHeader>
@@ -140,11 +140,11 @@ export default function Home() {
                     <Table>
                       <TableBody>
                         <TableRow>
-                          {/* <TableCell className=" font-medium text-base flex gap-1">
+                          <TableCell className=" font-medium text-base flex gap-1">
                           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="w-6 h-6">
                             <path fillRule="evenodd" d="M1.5 4.5a3 3 0 0 1 3-3h1.372c.86 0 1.61.586 1.819 1.42l1.105 4.423a1.875 1.875 0 0 1-.694 1.955l-1.293.97c-.135.101-.164.249-.126.352a11.285 11.285 0 0 0 6.697 6.697c.103.038.25.009.352-.126l.97-1.293a1.875 1.875 0 0 1 1.955-.694l4.423 1.105c.834.209 1.42.959 1.42 1.82V19.5a3 3 0 0 1-3 3h-2.25C8.552 22.5 1.5 15.448 1.5 6.75V4.5Z" clipRule="evenodd" />
                           </svg>
-                            Phone Number: +1 (437) 229 5208</TableCell> */}
+                            Phone Number: +1 (548) 333 1134</TableCell>
                         </TableRow>
                         <TableRow>
                           <TableCell className="font-medium text-base flex gap-1">
@@ -161,7 +161,7 @@ export default function Home() {
                               <path fillRule="evenodd" d="M17.834 6.166a8.25 8.25 0 1 0 0 11.668.75.75 0 0 1 1.06 1.06c-3.807 3.808-9.98 3.808-13.788 0-3.808-3.807-3.808-9.98 0-13.788 3.807-3.808 9.98-3.808 13.788 0A9.722 9.722 0 0 1 21.75 12c0 .975-.296 1.887-.809 2.571-.514.685-1.28 1.179-2.191 1.179-.904 0-1.666-.487-2.18-1.164a5.25 5.25 0 1 1-.82-6.26V8.25a.75.75 0 0 1 1.5 0V12c0 .682.208 1.27.509 1.671.3.401.659.579.991.579.332 0 .69-.178.991-.579.3-.4.509-.99.509-1.671a8.222 8.222 0 0 0-2.416-5.834ZM15.75 12a3.75 3.75 0 1 0-7.5 0 3.75 3.75 0 0 0 7.5 0Z" clipRule="evenodd" />
                             </svg>
 
-                            Email: 
+                            Email: raman.rsharma11@gmail.com
                           </TableCell>
                         </TableRow>
                       </TableBody>
